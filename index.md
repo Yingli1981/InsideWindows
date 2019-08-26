@@ -22,6 +22,9 @@ Windowsプログラム設計・製作に必要な知識を習得するため
 **OneCore**
 
     ・Win10 と モバイル用OS、ゲーム用OSなどとのカーネル統合
+    
+> 参考
+>[ Windows 10 IPの開発が遅れる要因「OneCore」とは?](https://news.mynavi.jp/article/20160201-windows10report/)
  
 **Win32API**
 

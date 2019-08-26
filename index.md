@@ -1,9 +1,10 @@
-## Welcome to GitHub Pages
+## インサイドWindows独習記録
 
-You can use the [editor on GitHub](https://github.com/Yingli1981/InsideWindows/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Windows OS理解のために [インサイドWindows](https://www.amazon.co.jp/dp/4822253570)を読んでいます。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+その独習記録を記録していきます。
 
+<!-- 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -35,3 +36,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->

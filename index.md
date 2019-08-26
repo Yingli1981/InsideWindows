@@ -1,10 +1,39 @@
-## インサイドWindows独習記録
+###  インサイドWindows独習記録
 
-Windows OS理解のために [インサイドWindows](https://www.amazon.co.jp/dp/4822253570)を読んでいます。
-
-その独習記録を記録していきます。
+##はじめに
+Windowsプログラム設計・製作に必要な知識を習得するため
+「インサイドWindows 第7版 上」という書籍を購入。 (※下巻は 2019/8/26現在未出版 (英語版も))
+知識の整理・復習を兼ねて、独習で学んだことを本Wikiに記録する。
+ 
+購入書籍
+https://www.amazon.co.jp/dp/4822253570
 
 <!-- 
+
+用語集
+第1章 概念とツール
+ 
+Windowsのバージョン確認方法
+         コマンドプロンプトで「winver」実行 (ビルド番号もこれでわかる)
+ 
+OneCore
+          Win10 と モバイル用OS、ゲーム用OSなどとのカーネル統合
+ 
+Win32API
+　　　Windows OSファミリーのユーザモードシステムのプログラミングインターフェース
+          なぜ "32"がつくのか…　昔の Windows 16ビット版と区別するため
+　　　今は64ビットOSがあるので Windows API と呼ぶ
+Windows APIの種類
+　　　COM,OLE
+第2章 システムアーキテクチャ
+第3章 プロセスとジョブ
+第4章 スレッド
+第5章 メモリ管理
+第6章 I/Oシステム
+第7章 セキュリティ
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

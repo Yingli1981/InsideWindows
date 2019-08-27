@@ -18,7 +18,7 @@ Windowsプログラム設計・製作に必要な知識を習得するため
 >[OS基礎の基礎をまとめてみた。](https://qiita.com/tatsuya4150/items/f830c9b2ae33275aef42)
 
 
-#OSの構成
+### OSの構成
 
 ブートローダー
 
